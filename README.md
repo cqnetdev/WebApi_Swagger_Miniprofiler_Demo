@@ -12,5 +12,4 @@ Swagger和MiniProfiler结合使用应该不错吧
 
 
 
-If you feel good,please give me Star!Thands!
-My Email:971368174@qq.com
+该项目需要VS2017环境，暂未测试，感觉代码应该完整
